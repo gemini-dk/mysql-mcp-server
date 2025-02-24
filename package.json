@@ -1,9 +1,9 @@
 {
-  "name": "@kevinwatt/mysql-mcp",
+  "name": "gemini-dk/mysql-mcp-server",
   "version": "0.1.1",
   "description": "MCP server implementation for MySQL database access",
   "license": "MIT",
-  "author": "Dewei Yen (https://github.com/kevinwatt)",
+  "author": "Gemini.DK (https://github.com/gemini-dk)",
   "type": "module",
   "main": "dist/index.js",
   "preferGlobal": true,
@@ -35,12 +35,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevinwatt/mysql-mcp.git"
+    "url": "git+https://github.com/gemini-dk/mysql-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/kevinwatt/mysql-mcp/issues"
+    "url": "https://github.com/gemini-dk/mysql-mcp-server/issues"
   },
-  "homepage": "https://github.com/kevinwatt/mysql-mcp#readme",
+  "homepage": "https://github.com/gemini-dk/mysql-mcp-server#readme",
   "keywords": [
     "mcp",
     "mysql",
