@@ -112,16 +112,3 @@ node /path/to/mysql-mcp-server/dist/index.js
 ## License
 
 MIT
-
-## Author
-
-Dewei Yen
-
-## Keywords
-
-* mcp
-* mysql
-* database
-* dive
-* llm
-* ai
